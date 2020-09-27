@@ -1,6 +1,6 @@
-# hsc
+# HCS
 
-A new Flutter application.
+for Handong CS student 
 
 ## Getting Started
 
